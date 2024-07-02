@@ -1,7 +1,8 @@
 # Calculator
 Este es un código para java con el cual pueden crear una calculadora :
 
-// Calculator.java
+// Calculator.java //
+
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
@@ -131,6 +132,10 @@ public class Calculator extends JFrame {
         }
     }
 
+    public static void main(String[] args) {
+        new Calculator();
+    }
+}
     public static void main(String[] args) {
         new Calculator();
     }
