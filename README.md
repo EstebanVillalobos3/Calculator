@@ -10,7 +10,7 @@ Utilice la libreria Swing que es una biblioteca de componentes gráficos para el
 
 Esta calculadora tambien muestra que si hacen una division por 0, por ejemplo: 12/0. Lo que se mostrara en pantalla sera que el resultado es 0.
 
-Para ejecutar este programa lo unico que tinen que hacer es copiar el codigo que esta donde dice "//Calculator.java" pegarlo en su intellij idea y ya solo seria ejecutarlo, al momento de ejecutarlo les aparecera en pantalla una calculadora y solo deberan presionar los numeros que son del 0 al 9, las operaciones que son +, -, *, / y por ultimo las acciones que son =, c (la c sirve para eliminar).
+Para ejecutar este programa lo unico que tienen que hacer es copiar el codigo que esta donde dice "//Calculator.java" pegarlo en su intellij idea y ya solo seria ejecutarlo, al momento de ejecutarlo les aparecera en pantalla una calculadora y solo deberan presionar los numeros que son del 0 al 9, las operaciones que son +, -, *, / y por ultimo las acciones que son =, c (la c sirve para eliminar).
 
 Este es el codigo que deben poner en su intellij idea - java para crear la calculadora:
 
